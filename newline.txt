@@ -1,2 +1,3 @@
 ADD line
 votas
+samsungi zaryadochnik
